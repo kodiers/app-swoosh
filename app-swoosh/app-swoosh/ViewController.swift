@@ -17,8 +17,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        swoosh.frame = CGRect(x: view.frame.size.width / 2 - swoosh.frame.width / 2, y: 50, width: swoosh.frame.width, height: swoosh.frame.size.height)
-        bgImg.frame = view.frame
+//        swoosh.frame = CGRect(x: view.frame.size.width / 2 - swoosh.frame.width / 2, y: 50, width: swoosh.frame.width, height: swoosh.frame.size.height)
+//        bgImg.frame = view.frame
     }
 
     override func didReceiveMemoryWarning() {
